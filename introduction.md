@@ -7,3 +7,5 @@ Based on this fact, a growing global set of movements have begun advocating to e
 Donors and international organizations are increasingly investing in OER approaches, as they are interested in ensuring that the funded educational materials reach the greatest number of learners. They are also eager to see this broad access to materials is not compromised at the conclusion of the life of the project when there is no longer any mechanism to reproduce the resources.
 
 From a host country government’s perspective, maintaining control over curriculum materials is a strategic approach to curb education expenditure. As openly licensed resources provide a system of achieving all of these objectives, many donors, such as U.S. Agency for International Development (USAID), now require its implementing partners to issue all developed learning materials under Creative Commons licenses.  
+
+[Start minicourse](https://github.com/christer-io/creativecommons-minicourse/blob/master/part-1.md)
