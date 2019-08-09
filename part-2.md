@@ -8,7 +8,5 @@ Donors and international organizations are increasingly investing in OER approac
 
 From a host country government’s perspective, maintaining control over curriculum materials is a strategic approach to curb education expenditure. As openly licensed resources provide a system of achieving all of these objectives, many donors, such as U.S. Agency for International Development (USAID), now require its implementing partners to issue all developed learning materials under Creative Commons licenses.
 
-The following video expands on this idea and gives a very brief overview of some of the topics covered in this course.
-Cable Green is the Director of Open Education at Creative Commons. He is a leading advocate for open education content, practices & policy. In this short video Cable Green explaining Creative Commons and OER in 2 minutes:
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/oLcVycFkmtM/0.jpg)](http://www.youtube.com/watch?v=oLcVycFkmtM)
+[Next](https://github.com/christer-io/creativecommons-minicourse/blob/master/part-3.md)
