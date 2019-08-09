@@ -1,4 +1,7 @@
-# Glossary for this mini-course
+# Glossary and definitions for this mini-course
+This list of glossary and definitions will be linked at the bottom of the following course steps, making it easy for you to go back and "read up".
+
+## Glossary:
 
 **Copyright** is the set of exclusive rights granted to the author or creator of an original work, including the right to copy, distribute, adapt and exploit the work for profit.  
 
@@ -16,3 +19,5 @@ Licensing terms:  the conditions under which the copyright holder grants permiss
 
 **Open licensing:** Open licensing of materials expands on the concept of copyright by allowing interested parties to access and use materials the requirement the payment of a fee.
 Underserved languages: Languages without sufficient textbooks, teachers’ guides, or reading books available in the classroom to support the achievement of early literacy and learning outcomes.  
+
+[Next](https://github.com/christer-io/creativecommons-minicourse/blob/master/part-2.md)
